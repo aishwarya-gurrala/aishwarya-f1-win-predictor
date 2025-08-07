@@ -5,3 +5,6 @@ __pycache__/
 *.pkl
 !f1_model.pkl
 .DS_Store
+venv/
+__pycache__/
+*.pyc
